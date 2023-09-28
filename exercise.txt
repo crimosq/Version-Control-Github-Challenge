@@ -5,7 +5,7 @@
 
 2. What is the major difference between Git and GitHub?
 	
-	Git is the tool you use on your computer ti manage and track your code. GitHub is a website 	that provides place to store your git repositories and make it easier to work on projects 	with others.
+	Git is the tool you use on your computer ti manage and track your code. GitHub is a website that provides place to store your git repositories and make it easier to work on projects with others.
 
 3. What are the steps to fork a GitHub repository?
 
@@ -15,6 +15,6 @@
 
 	3. Under "Owner," select the dropdown menu and click an owner for the forked repository.
 
-	4. By default, forks are named the same as their upstream repositories. Optionally, to 		further distinguish your fork, in the "Repository name" field, type a name.
+	4. By default, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the "Repository name" field, type a name.
 
 	5. Click Create Fork
